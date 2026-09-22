@@ -188,7 +188,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6836507500322998952, guid: bfaca0d251313294caf1e069b490f862, type: 3}
       propertyPath: m_Speed
-      value: 100
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 6836507500322998952, guid: bfaca0d251313294caf1e069b490f862, type: 3}
       propertyPath: m_TurnSpeed
@@ -197,6 +197,10 @@ PrefabInstance:
     - target: {fileID: 6836507500322998952, guid: bfaca0d251313294caf1e069b490f862, type: 3}
       propertyPath: m_PlayerNumber
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6836507500322998952, guid: bfaca0d251313294caf1e069b490f862, type: 3}
+      propertyPath: m_IsDirectControl
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8072214824544498703, guid: bfaca0d251313294caf1e069b490f862, type: 3}
       propertyPath: m_AnchorMax.x
